@@ -2,8 +2,8 @@ import discord
 import google.generativeai as genai
 
 # --- CONFIG ---
-GEMINI_API_KEY = "API"
-DISCORD_TOKEN = "TOKEN"
+GEMINI_API_KEY = "AIzaSyA-KVpfeUz-fdvrDJixUNzfd2va2CCYPNo"
+DISCORD_TOKEN = "MTQ5MzU0NDI0NTAwNzc0NTA4NA.GnJQ2t.QaBSAAjtCah14ncpWC7c3b7bD9gaMQKbPzCx40"
 
 genai.configure(api_key=GEMINI_API_KEY)
 
